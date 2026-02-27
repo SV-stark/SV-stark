@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">You're Awesome :)</h1>
+<p align="center">... and I'm S V Stark</p>
 
-<!--
-**SV-stark/SV-stark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SV-stark&show_icons=true&theme=tokyonight&rank_icon=github" alt="SV-stark's GitHub stats" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SV-stark&layout=compact&theme=tokyonight" alt="SV-stark's Top Langs" height="192px" />
+</p>
+
+### ❤️ Let's get connected!
+
+<p align="left">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/your-id">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://gitlab.com/your-username">
+    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  </a>
+  <a href="https://dev.to/your-username">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://t.me/your-username">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
