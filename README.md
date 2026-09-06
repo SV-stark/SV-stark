@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi+there!+👋+I'm+SV+Stark;Rust+Systems+&+Flutter+Developer;Building+high-performance+tools+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi+there!+👋+I'm+SV+Stark;Rust+Systems+%26+Flutter+Developer;Building+high-performance+tools+🚀" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -8,6 +8,19 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SV-stark&label=Profile+Views&color=58A6FF&style=flat-square" alt="profile views" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=SV-stark&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true" height="192px" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SV-stark&layout=compact&theme=tokyonight&count_private=true" height="192px" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SV-stark&theme=tokyonight" alt="streak stats" />
 </p>
 
 ---
@@ -24,8 +37,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SV-stark/CantoSync">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=SV-stark&repo=CantoSync&theme=tokyonight" alt="CantoSync" />
+  <a href="https://github.com/SV-stark/AstroNaksh">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=SV-stark&repo=AstroNaksh&theme=tokyonight" alt="AstroNaksh" />
   </a>
   <a href="https://github.com/SV-stark/rusdu">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=SV-stark&repo=rusdu&theme=tokyonight" alt="rusdu" />
@@ -39,19 +52,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,python,c,java,dart,kotlin&theme=dark" alt="Languages" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=flutter,docker,git,github,vscode,idea,androidstudio&theme=dark" alt="Frameworks and Tools" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=SV-stark&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true" height="192px" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SV-stark&layout=compact&theme=tokyonight&count_private=true" height="192px" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SV-stark&theme=tokyonight" alt="streak stats" />
 </p>
 
 ---
